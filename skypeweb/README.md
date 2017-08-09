@@ -93,6 +93,7 @@ To install do:
 ```
 	sudo dpkg -i skypeweb-1.2.2-Linux.deb
 ```
+where `1.2.2` depends on version you have been cloned (version may be seen in package.json file), for example for version 1.4.0 you should type `sudo dpkg -i skypeweb-1.4.0-Linux.deb`
 
 Building AUR package for Arch Linux
 ----------
